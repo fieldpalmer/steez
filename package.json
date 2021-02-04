@@ -1,0 +1,22 @@
+{
+  "name": "steez",
+  "version": "1.0.0",
+  "description": "steez center for sharing and caring",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fieldpalmer/steez.git"
+  },
+  "author": "Field Palmer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fieldpalmer/steez/issues"
+  },
+  "homepage": "https://github.com/fieldpalmer/steez#readme",
+  "dependencies": {
+    "truffle": "^5.1.64"
+  }
+}
